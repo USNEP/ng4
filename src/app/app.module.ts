@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { MemberComponent } from './member/member.component';
 import { TeamComponent } from './team/team.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
