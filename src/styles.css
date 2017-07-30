@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.login {
+  border: 1px red solid;
+  padding: 0;
+}
+
+.login > header {
+  background-color: #0000fe;
+  line-height: 50px;
+  color: white;
+}
+
+
+.login > form {
+  padding: 25px;
+}
