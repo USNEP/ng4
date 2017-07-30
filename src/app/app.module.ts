@@ -46,7 +46,7 @@ import { CustomPipe } from './pipes/custom.pipe';
             component: DashboardComponent
           },
           {
-            path: 'report',
+            path: 'report/:id',
             component: ReportComponent
           },
         ]
